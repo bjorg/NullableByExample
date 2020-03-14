@@ -7,6 +7,7 @@ using System;
 using System.Diagnostics.CodeAnalysis;
 
 namespace NullableByExample {
+
     // This exercise focuses on annotating properties for various nullable scenarios.
     public class Exercise_Properties {
 
