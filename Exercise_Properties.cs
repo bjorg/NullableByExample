@@ -12,7 +12,7 @@ namespace NullableByExample {
     public class Exercise_Properties {
 
         //--- Class Methods ---
-        public static void Main() {
+        public static void Test() {
             var record = new Record {
                 Id = "123"
             };

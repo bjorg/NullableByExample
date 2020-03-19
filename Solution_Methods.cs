@@ -75,7 +75,7 @@ namespace NullableByExample {
                 : new Record {
                     Id = id
                 };
-            return true;
+            return record != null;
         }
 
         /// <summary>
